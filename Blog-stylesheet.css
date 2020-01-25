@@ -453,7 +453,12 @@ header .menu-toggle {
     padding-top: 20px;
 }
 
-
+.img {
+    border: 1px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    width: 150px; /* Set a small width */
+  }
 /* Media Queries */
 
 @media only screen and (max-width: 750px) {
